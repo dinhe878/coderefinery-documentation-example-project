@@ -3,4 +3,10 @@
 ## Function
 Given a spreadsheet file, print the columns and print the mean temperature.
 
-### This is derived from the coderefinery-documentation-example-project, example project for coderefinery documentation lesson
+## Requirement
+Required python packages can be found in requirements.txt
+
+## How to run
+python analyse_spreadsheet.py
+
+This is derived from the coderefinery-documentation-example-project, example project for coderefinery documentation lesson
